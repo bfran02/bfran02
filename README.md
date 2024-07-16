@@ -1,6 +1,8 @@
 ## Hi!, I'm Berenice Francisco Jiménez 👋
-**bfran02/bfran02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 I am a computer engineer passionate about software development and technology solutions. Throughout my career I have acquired skills and knowledge in programming, problem solving and areas focused on human-machine interaction.
+
+
 I have developed projects in languages such as Python, Java, C++ and PHP, together with my ability to quickly learn new technologies, have allowed me to contribute in several projects.
 
 <!--
